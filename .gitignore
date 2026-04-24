@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+.gcc-flags.json
+.clang-format
+*.o
+*.a
+*.d
