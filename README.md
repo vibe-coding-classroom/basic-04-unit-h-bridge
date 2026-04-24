@@ -1,5 +1,3 @@
-Viewed basic-04-unit-h-bridge.html:1-441
-
 針對 **`basic-04-unit-h-bridge` (H 橋驅動原理：解鎖馬達控制的鑰匙)** 單元，這是學員從「小 LED 實驗」轉向「大動力控制」的物理門檻。它要求學員具備 **功率驅動邏輯 (Power Driving Logic)** 的思維，學習如何透過「控流矩陣 (H-Bridge Map)」實現正反轉，並理解物理世界的 **「慣性 (Inertia)」** 與 **「動態制動 (Dynamic Braking)」** 對控制精度的影響。
 
 以下是在 **GitHub Classroom** 部署其作業 (Assignments) 的具體建議：
